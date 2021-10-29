@@ -1,3 +1,3 @@
 # tutorial-go-by-example
 
-Tutorials from [**"Go by Examples"**](https://gobyexample.com/structs) website. 
+Tutorials from [**"Go by Examples"**](https://gobyexample.com/) website. 
